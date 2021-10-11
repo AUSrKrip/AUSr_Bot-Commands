@@ -4,12 +4,12 @@
 
 ## Built-in text Events (only on twitch)
 
-Events               | Description                                        |                  |
----------------------|----------------------------------------------------|------------------|------------
-`Hosted`             | Thank you @username for the host of [viewers]!     |                  |
-`Raid`               | Thank you @username for the raid of [viewers]!     |                  |
-`Subscription`       | Thank you @username for subscribing!               |                  |
-`Cheer`              | Thank you @username for the [bits] bits!           |                  |
+Events               | Description                                        
+---------------------|----------------------------------------------------
+`Hosted`             | Thank you @username for the host of [viewers]!
+`Raid`               | Thank you @username for the raid of [viewers]!
+`Subscription`       | Thank you @username for subscribing!
+`Cheer`              | Thank you @username for the [bits] bits!
 
 ## Commands
 
