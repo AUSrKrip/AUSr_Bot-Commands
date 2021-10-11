@@ -2,8 +2,6 @@
 
 ![AUSr_Bot](/AUSr_Bot.png)
 
-This is a simple Twitch.tv chat bot made using Node.js.
-
 ## Built-in text Events
 
 Events               | Description
