@@ -23,7 +23,6 @@ Command              | Description                                         | Twi
 `!skill`             | Random career skill game.                           | ✅              | ✅
 `!stadium`           | Random career stadium track.                        | ✅              | ✅
 `!trials`            | Random career trials track.                         | ✅              | ✅
-`!discord`           | [Discord link](https://discord.gg/QUkEEvb)          | ✅              | ❌
 `!coffee`            | @username, will BRB they need coffee stat.          | ✅              | ❌
 `!slurk`             | Activated sleepy lurk mode ResidentSleeper          | ✅              | ❌
 `!joke`              | Pulls a random joke.                                | ✅              | ❌
