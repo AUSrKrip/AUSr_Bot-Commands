@@ -17,6 +17,7 @@ Events               | Description
 Command              | Description                                         | Twitch          | Discord
 ---------------------|-----------------------------------------------------|-----------------|------------
 `!lurk`              | @usermane, Activated lurk mode                      | ✅              | ❌
+`!unlurk`            | @usermane, Deactivated lurk mode                    | ✅              | ❌
 `!track`             | Random track from anywhere on career.               | ✅              | ✅
 `!ninja`             | Random career ninja track.                          | ✅              | ✅
 `!skill`             | Random career skill game.                           | ✅              | ✅
