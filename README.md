@@ -4,7 +4,7 @@
 
 This is a simple Twitch.tv Chatbot made using Node.js
 
-## Built-in text Events (only on twitch)
+## Built-in text Events
 
 Events               | Description                                        
 ---------------------|----------------------------------------------------
