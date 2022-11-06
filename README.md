@@ -2,7 +2,7 @@
 
 ![AUSr_Bot](/AUSr_Bot.png)
 
-This is a simple Twitch.tv/Discord Chatbot made using Node.js
+This is a simple Twitch.tv Chatbot made using Node.js
 
 ## Built-in text Events (only on twitch)
 
