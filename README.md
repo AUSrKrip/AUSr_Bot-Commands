@@ -18,9 +18,12 @@ Command              | Description
 ---------------------|-----------------------------------------------------
 `!helium`            | Get some exercise and use the helium                
 `!lurk`              | @usermane, Activated lurk mode                      
+`!glurk`             | Activated Gaming while lurk mode                    
 `!flurk`             | @usermane, Needs food but still in lurk mode
 `!slurk`             | Activated sleepy lurk mode ResidentSleeper          
 `!unlurk`            | @usermane, Deactivated lurk mode                    
+`!delurk`            | @usermane, Deactivated lurk mode                    
+`!relurk`            | @usermane, Activated lurk mode again                
 `!track`             | Random track from anywhere on career.               
 `!ninja`             | Random career ninja track.                          
 `!skill`             | Random career skill game.                           
