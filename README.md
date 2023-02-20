@@ -19,6 +19,7 @@ Command              | Description
 `!helium`            | Get some exercise and use the helium                
 `!lurk`              | @usermane, Activated lurk mode                      
 `!flurk`             | @usermane, Needs food but still in lurk mode
+`!slurk`             | Activated sleepy lurk mode ResidentSleeper          
 `!unlurk`            | @usermane, Deactivated lurk mode                    
 `!track`             | Random track from anywhere on career.               
 `!ninja`             | Random career ninja track.                          
@@ -27,7 +28,6 @@ Command              | Description
 `!trials`            | Random career trials track.                         
 `!coffee`            | @username, will BRB they need coffee stat.          
 `!tea`               | @username, will BRB they need tea stat.             
-`!slurk`             | Activated sleepy lurk mode ResidentSleeper          
 `!joke`              | Pulls a random joke.                                
 `!coinflip`          | I flipped the coin and It's [OUTCOME]               
 `!lvl1` to `!lvl7`   | Pulls a random ninja track.                         
