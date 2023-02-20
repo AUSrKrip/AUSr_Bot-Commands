@@ -16,6 +16,7 @@ Events               | Description
 
 Command              | Description                                         
 ---------------------|-----------------------------------------------------
+`!helium`            | Get some exercise and use the helium                
 `!lurk`              | @usermane, Activated lurk mode                      
 `!unlurk`            | @usermane, Deactivated lurk mode                    
 `!track`             | Random track from anywhere on career.               
