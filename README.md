@@ -32,6 +32,7 @@ Command              | Description
 `!coffee`            | @username, will BRB they need coffee stat.          
 `!tea`               | @username, will BRB they need tea stat.             
 `!joke`              | Pulls a random joke.                                
+`!bike`              | Random bike.                         
 `!coinflip`          | I flipped the coin and It's [OUTCOME]               
 `!lvl1` to `!lvl7`   | Pulls a random ninja track.                         
 `!base1` to `!base7` | Baseline ninja tracks.                              
