@@ -16,7 +16,7 @@ Events               | Description
 
 Command              | Description                                         
 ---------------------|-----------------------------------------------------
-`!shoutout`          | Check out @AUS_Krip and go follow them at https://www.twitch.tv/ausr_krip
+`!shoutout @Username`| Check out @Username and go follow them at https://www.twitch.tv/username
 `!helium`            | Get some exercise and use the helium                
 `!lurk`              | @usermane, Activated lurk mode                      
 `!glurk`             | Activated Gaming while lurk mode                    
