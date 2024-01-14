@@ -16,6 +16,7 @@ Events               | Description
 
 Command              | Description                                         
 ---------------------|-----------------------------------------------------
+`!hug @Username`     | @Username sends a virtual hug to Username
 `!shoutout @Username`| Check out @Username and go follow them at twitch.tv/username
 `!helium`            | Get some exercise and use the helium                
 `!lurk`              | @usermane, Activated lurk mode                      
