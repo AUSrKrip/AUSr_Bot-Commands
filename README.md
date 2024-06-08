@@ -20,7 +20,7 @@ Command                          | Description
 
 Command                          | Description                                         
 ---------------------------------|-----------------------------------------------------
-`@AUSr_Bot`                      | Usage @AUSr_Bot activate dan mode
-`@AUSr_Bot`                      | Usage @AUSr_Bot deactivate dan mode
-`!addcom`                        | Usage !addcom !commandname command text
-`!delcom`                        | Usage !delcom !commandname
+`@AUSr_Bot`                      | Usage: @AUSr_Bot activate dan mode
+`@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode
+`!addcom`                        | Usage: !addcom !commandname command text
+`!delcom`                        | Usage: !delcom !commandname
