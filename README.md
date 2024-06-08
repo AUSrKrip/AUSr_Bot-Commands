@@ -4,37 +4,23 @@
 
 This is a simple Twitch.tv Chatbot made using Node.js
 
-## Built-in text Events
-
-Events               | Description                                        
----------------------|----------------------------------------------------
-`Raid`               | Thank you @username for the raid of [viewers]!
-`Subscription`       | Thank you @username for subscribing!
-`Cheer`              | Thank you @username for the [bits] bits!
-
 ## Commands
 
-Command              | Description                                         
----------------------|-----------------------------------------------------
-`!hug @Username`     | @Username sends a virtual hug to Username <3
-`!shoutout @Username`| Check out @Username and go follow them at twitch.tv/username
-`!helium`            | Get some exercise and use the helium                
-`!lurk`              | @usermane, Activated lurk mode                      
-`!glurk`             | Activated Gaming while lurk mode                    
-`!flurk`             | @usermane, Needs food but still in lurk mode
-`!slurk`             | Activated sleepy lurk mode ResidentSleeper          
-`!unlurk`            | @usermane, Deactivated lurk mode                    
-`!delurk`            | @usermane, Deactivated lurk mode                    
-`!relurk`            | @usermane, Activated lurk mode again                
-`!track`             | Random track from anywhere on career.               
-`!ninja`             | Random career ninja track.                          
-`!skill`             | Random career skill game.                           
-`!stadium`           | Random career stadium track.                        
-`!trials`            | Random career trials track.                         
-`!coffee`            | @username, will BRB they need coffee stat.          
-`!tea`               | @username, will BRB they need tea stat.             
-`!joke`              | Pulls a random joke.                                
-`!bike`              | Random bike.                         
-`!coinflip`          | I flipped the coin and It's [OUTCOME]               
-`!lvl1` to `!lvl7`   | Pulls a random ninja track.                         
-`!base1` to `!base7` | Baseline ninja tracks.                              
+Command                | Description                                         
+-----------------------|-----------------------------------------------------
+`@AUSr_Bot`            | @ the bot with your questions. 
+`!shoutout @Username`  | Check out @username at https://twitch.tv/username — they are currently playing game name. Give them a follow!
+`!uptime`              | Shows the how long the stream has been live.
+`!track`               | Random track from anywhere on career.               
+`!bike`                | Random bike.                                      
+`!lvl 1` to `!lvl 7`   | Random ninja track in Track Central.                         
+`!base 1` to `!base 7` | Baseline ninja tracks.                              
+
+## MOD Commands
+
+Command                | Description                                         
+-----------------------|-----------------------------------------------------
+`@AUSr_Bot`            | Usage @AUSr_Bot activate dan mode
+`@AUSr_Bot`            | Usage @AUSr_Bot deactivate dan mode
+`!addcom`              | Usage !addcom <commandname> <command>
+`!delcom`              | Usage !delcom <commandname>
