@@ -9,7 +9,7 @@ This is a simple Twitch.tv Chatbot made using Node.js
 Command                          | Description                                         
 ---------------------------------|-----------------------------------------------------
 `@AUSr_Bot`                      | @ the bot with your questions. 
-`!shoutout @Username`            | Check out @username at https://twitch.tv/username — they are currently playing game name. Give them a follow!
+`!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow!
 `!uptime`                        | Shows the how long the stream has been live.
 `!track`                         | Random track from anywhere on career.               
 `!bike`                          | Random bike.                                      
