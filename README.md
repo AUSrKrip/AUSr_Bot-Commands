@@ -11,7 +11,9 @@ Command                          | Description
 `@AUSr_Bot`                      | @ the bot with your questions. 
 `!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow!
 `!uptime`                        | Shows the how long the stream has been live.
-`!track`                         | Random track from anywhere on career.               
+`!addtrack`                      | Requset a track to play.
+`!tracklist`                     | Shows the last 5 tracks added.
+`!track`                         | Random track from anywhere on career.
 `!bike`                          | Random bike.                                      
 `!lvl 1` to `!lvl 7`             | Random ninja track in Track Central.                         
 `!base 1` to `!base 7`           | Baseline ninja tracks.                              
