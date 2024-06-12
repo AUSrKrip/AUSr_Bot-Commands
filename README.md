@@ -11,6 +11,8 @@ Command                          | Description
 `@AUSr_Bot`                      | @ the bot with your questions. 
 `!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow!
 `!uptime`                        | Shows the how long the stream has been live.
+`!points`                        | Shows how many points you have across all channels using AUSr_Bot.
+`!gamble`                        | Usage: !gamble number or all.
 `!addtrack`                      | Requset a track to play.
 `!tracklist`                     | Shows the last 5 tracks added.
 `!track`                         | Random track from anywhere on career.
