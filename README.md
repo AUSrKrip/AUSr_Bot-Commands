@@ -23,9 +23,9 @@ Command                          | Description
 
 ## MOD Commands
 
-Command                          | Description                                         
----------------------------------|-----------------------------------------------------
-`@AUSr_Bot`                      | Usage: @AUSr_Bot activate dan mode
-`@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode
-`!addcom`                        | Usage: !addcom !commandname command text
-`!delcom`                        | Usage: !delcom !commandname
+Command                          | Description                                         | Variables
+---------------------------------|-----------------------------------------------------|----------------------------
+`@AUSr_Bot`                      | Usage: @AUSr_Bot activate dan mode                  |
+`@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode                |
+`!addcom`                        | Usage: !addcom !commandname command text            | `<@targetuser>`
+`!delcom`                        | Usage: !delcom !commandname                         |
