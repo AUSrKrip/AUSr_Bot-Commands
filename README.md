@@ -13,6 +13,7 @@ Command                          | Description
 `!uptime`                        | Shows the how long the stream has been live.
 `!points`                        | Shows how many points you have across all channels using AUSr_Bot. 1 point per message sent.
 `!gamble`                        | Usage: !gamble number or all.
+`!duel`                          | Usage: !duel @username 100.
 `!top`                           | Shows the top 5 users points.
 `!addtrack`                      | Requset a track to play.
 `!tracklist`                     | Shows the last 5 tracks added.
