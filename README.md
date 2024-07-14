@@ -13,7 +13,7 @@ Command                          | Description
 `!uptime`                        | Shows the how long the stream has been live.
 `!points`                        | Shows how many points you have across all channels using AUSr_Bot. 1 point per message sent.
 `!gamble`                        | Usage: !gamble number or all.
-`!duel`                          | Usage: !duel @username 100.
+`!duel`                          | Usage: !duel @username amount.
 `!top`                           | Shows the top 5 users points.
 `!addtrack`                      | Requset a track to play.
 `!tracklist`                     | Shows the last 5 tracks added.
@@ -26,7 +26,8 @@ Command                          | Description
 
 Command                          | Description                                         | Variables
 ---------------------------------|-----------------------------------------------------|----------------------------
-`@AUSr_Bot`                      | Usage: @AUSr_Bot activate dan mode                  |
-`@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode                |
-`!addcom`                        | Usage: !addcom !commandname command text            | `<@targetusername>`
-`!delcom`                        | Usage: !delcom !commandname                         |
+`@AUSr_Bot`                      | Usage: @AUSr_Bot activate dan mode.                 |
+`@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode.               |
+`!addcom`                        | Usage: !addcom !commandname command text.           | `<@targetusername>`
+`!delcom`                        | Usage: !delcom !commandname.                        |
+`!addpoints`                     | Usage: !addpoints @username amount.
