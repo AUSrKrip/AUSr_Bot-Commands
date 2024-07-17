@@ -17,8 +17,9 @@ Command                          | Description
 `!top`                           | Shows the top 5 users points.
 `!addtrack`                      | Requset a track to play.
 `!tracklist`                     | Shows the last 5 tracks added.
-`!track`                         | Random track from anywhere on career.
-`!bike`                          | Random bike.                                      
+`!track`                         | Random Trials Rising track from anywhere on career.
+`!race`                          | Random Gran Turismo 7 track from anywhere on career.
+`!bike`                          | Random Trials Rising bike.                                      
 `!lvl 1` to `!lvl 7`             | Random ninja track in Track Central.                         
 `!base 1` to `!base 7`           | Baseline ninja tracks.                              
 
