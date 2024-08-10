@@ -9,7 +9,7 @@ This is a simple Twitch.tv Chatbot made using Node.js
 Command                          | Description                                         
 ---------------------------------|-----------------------------------------------------
 `@AUSr_Bot`                      | @ the bot with your questions. 
-`!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow!
+`!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow! Automatic shoutout for raids.
 `!uptime`                        | Shows the how long the stream has been live.
 `!8ball`                         | Magic 8-Ball response.
 `!points`                        | Shows how many points you have across all channels using AUSr_Bot. 1 point per message sent.
