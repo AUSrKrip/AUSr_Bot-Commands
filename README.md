@@ -16,7 +16,7 @@ Command                          | Description
 `!gamble`                        | Usage: !gamble number or all.
 `!duel`                          | Usage: !duel @username amount.
 `!top`                           | Shows the top 5 users points.
-`!addtrack`                      | Requset a track to play.
+`!addtrack` - `!tr`              | Requset a track to play.
 `!tracklist`                     | Shows the last 5 tracks added.
 `!race`                          | Random Gran Turismo 7 track from anywhere on career.
 `!track`                         | Random Trials Rising track from anywhere on career.
