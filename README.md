@@ -32,4 +32,6 @@ Command                          | Description                                  
 `@AUSr_Bot`                      | Usage: @AUSr_Bot deactivate dan mode.               |
 `!addcom`                        | Usage: !addcom !commandname command text.           | `<@targetusername>`
 `!delcom`                        | Usage: !delcom !commandname.                        |
+`!addcount`                      | Usage: !addcount !countername.                      |
+`!delcount`                      | Usage: !delcount !countername.                      |
 `!addpoints`                     | Usage: !addpoints @username 100
