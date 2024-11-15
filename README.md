@@ -1,6 +1,7 @@
 # AUSr_Bot
 
 ![AUSr_Bot](/AUSr_Bot.png)
+
 🤖 Node.js-Powered Twitch Bot 🎮
 I’ve developed a Twitch bot packed with awesome features, custom commands and more.
 
