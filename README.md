@@ -36,15 +36,15 @@ Command                          | Description                                  
 `!delcount`                      | Usage: !delcount !countername.                      |
 `!addpoints`                     | Usage: !addpoints @username 100                     |
 
-Channels                         |
----------------------------------|-----------------------------------------------------
-`[AUSr_Bot](https://www.twitch.tv/AUSr_Bot)`
-[AUSr_Krip](https://www.twitch.tv/AUSr_Krip)
-[Lookwhotalkin](https://www.twitch.tv/Lookwhotalkin)
-[Slabzy](https://www.twitch.tv/Slabzy)
-[DaddyDier](https://www.twitch.tv/DaddyDier)
-[EpicFatLip](https://www.twitch.tv/EpicFatLip)
-[Realwstr](https://www.twitch.tv/Realwstr)
-[Muzzzaa](https://www.twitch.tv/Muzzzaa)
-[xembolo1979x](https://www.twitch.tv/xembolo1979x)
-[ChasmFlaps](https://www.twitch.tv/ChasmFlaps)
+Channels                                                   |
+-----------------------------------------------------------|-----------------------------------------------------
+[AUSr_Bot](https://www.twitch.tv/AUSr_Bot)                 |
+[AUSr_Krip](https://www.twitch.tv/AUSr_Krip)               |
+[Lookwhotalkin](https://www.twitch.tv/Lookwhotalkin)       |
+[Slabzy](https://www.twitch.tv/Slabzy)                     |
+[DaddyDier](https://www.twitch.tv/DaddyDier)               |
+[EpicFatLip](https://www.twitch.tv/EpicFatLip)             |
+[Realwstr](https://www.twitch.tv/Realwstr)                 |
+[Muzzzaa](https://www.twitch.tv/Muzzzaa)                   |
+[xembolo1979x](https://www.twitch.tv/xembolo1979x)         |
+[ChasmFlaps](https://www.twitch.tv/ChasmFlaps)             |
