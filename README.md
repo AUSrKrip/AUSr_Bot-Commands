@@ -9,7 +9,7 @@ This is a simple Twitch.tv Chatbot made using Node.js
 Command                          | Description                                         
 ---------------------------------|-----------------------------------------------------
 `@AUSr_Bot`                      | @ the bot with your questions. 
-`!shoutout @Username`            | Check out @username at https://twitch.tv/username — they were last playing game name. Give them a follow! Automatic shoutout for raids.
+`!shoutout @Username`            | Check out @username at https://twitch.tv/AUSr_Bot — they were last playing game name. Give them a follow! Automatic shoutout for raids.
 `!uptime`                        | Shows the how long the stream has been live.
 `!8ball`                         | Magic 8-Ball response.
 `!points`                        | Shows how many points you have across all channels using AUSr_Bot. 1 point per message sent.
@@ -35,3 +35,16 @@ Command                          | Description                                  
 `!addcount`                      | Usage: !addcount !countername.                      | `<counter>`
 `!delcount`                      | Usage: !delcount !countername.                      |
 `!addpoints`                     | Usage: !addpoints @username 100                     |
+
+## Channels
+
+[AUSr_Bot](https://www.twitch.tv/AUSr_Bot)
+[AUSr_Krip](https://www.twitch.tv/AUSr_Krip)
+[Lookwhotalkin](https://www.twitch.tv/Lookwhotalkin)
+[Slabzy](https://www.twitch.tv/Slabzy)
+[DaddyDier](https://www.twitch.tv/DaddyDier)
+[EpicFatLip](https://www.twitch.tv/EpicFatLip)
+[Realwstr](https://www.twitch.tv/Realwstr)
+[Muzzzaa](https://www.twitch.tv/Muzzzaa)
+[xembolo1979x](https://www.twitch.tv/xembolo1979x)
+[ChasmFlaps](https://www.twitch.tv/ChasmFlaps)
