@@ -3,7 +3,6 @@
 ![AUSr_Bot](/AUSr_Bot.png)
 
 🤖 Node.js-Powered Twitch Bot 🎮
-I’ve developed a Twitch bot packed with awesome features, custom commands and more.
 
 If you'd like to have this bot in your channel, feel free to send me a DM on Discord: https://discordapp.com/invite/QUkEEvb
 
