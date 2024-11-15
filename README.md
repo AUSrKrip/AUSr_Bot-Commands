@@ -36,7 +36,7 @@ Command                          | Description                                  
 `!delcount`                      | Usage: !delcount !countername.                      |
 `!addpoints`                     | Usage: !addpoints @username 100                     |
 
-##Channels
+## Channels
 
 [![AUSr_Bot](https://static-cdn.jtvnw.net/jtv_user_pictures/2fba3a35-3d23-44a3-914b-9c5d9114c8a0-profile_image-70x70.png)](https://www.twitch.tv/AUSr_Bot)
 [![AUSr_Krip](https://static-cdn.jtvnw.net/jtv_user_pictures/8c777cef-8bd8-48ae-9b3b-df726c5e64d3-profile_image-70x70.png)](https://www.twitch.tv/AUSr_Krip)
