@@ -2,7 +2,10 @@
 
 ![AUSr_Bot](/AUSr_Bot.png)
 
-This is a simple Twitch.tv Chatbot made using Node.js
+🚀 Twitch Bot Available for Your Channel! 🎮
+I’ve created a Twitch bot powered by Node.js to enhance your streams with custom commands and fun features!
+
+If you'd like to have this bot in your channel, feel free to send me a DM on Discord: https://discordapp.com/invite/QUkEEvb. Let’s take your Twitch game to the next level!
 
 ## Commands
 
