@@ -34,4 +34,5 @@ Command                          | Description                                  
 `!delcom`                        | Usage: !delcom !commandname.                        |
 `!addcount`                      | Usage: !addcount !countername.                      | `<counter>`
 `!delcount`                      | Usage: !delcount !countername.                      |
-`!addpoints`                     | Usage: !addpoints @username 100
+`!addpoints`                     | Usage: !addpoints @username 100                     |
+`!deltrack`                      | Usage: !deltrack 18                        |
