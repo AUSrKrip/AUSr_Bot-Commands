@@ -48,3 +48,5 @@ Channels                                                   | Links
 [Muzzzaa](https://www.twitch.tv/Muzzzaa)                   |
 [xembolo1979x](https://www.twitch.tv/xembolo1979x)         |
 [ChasmFlaps](https://www.twitch.tv/ChasmFlaps)             |
+
+[![AUSr_Bot](https://static-cdn.jtvnw.net/jtv_user_pictures/2fba3a35-3d23-44a3-914b-9c5d9114c8a0-profile_image-70x70.png)](https://www.twitch.tv/AUSr_Bot)
