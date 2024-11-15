@@ -38,7 +38,7 @@ Command                          | Description                                  
 
 Channels                         |
 ---------------------------------|-----------------------------------------------------
-[AUSr_Bot](https://www.twitch.tv/AUSr_Bot)
+`[AUSr_Bot](https://www.twitch.tv/AUSr_Bot)`
 [AUSr_Krip](https://www.twitch.tv/AUSr_Krip)
 [Lookwhotalkin](https://www.twitch.tv/Lookwhotalkin)
 [Slabzy](https://www.twitch.tv/Slabzy)
