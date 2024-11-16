@@ -4,7 +4,7 @@
 
 🤖 Node.js-Powered Twitch Bot 🎮
 
-If you'd like to have this bot in your channel, feel free to send me a DM on Discord: https://discordapp.com/invite/QUkEEvb
+If you'd like to have this bot in your channel, feel free to send AUSr_Krip DM on Discord: https://discordapp.com/invite/QUkEEvb
 
 ## Commands
 
